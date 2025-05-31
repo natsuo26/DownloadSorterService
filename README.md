@@ -92,5 +92,3 @@ sc start DownloadSorterService
 Once started, the service will begin monitoring the configured download path. You can test its functionality by copying a file with a known extension into the target directory and observing it being sorted into the appropriate folder.
 
 ---
-
-Let me know if you'd like this formatted into a README file or if you need help creating a sample `appsettings.json`.
